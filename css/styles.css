@@ -1,0 +1,27 @@
+body{
+  background-color: #ffffff;
+}
+
+  hr{
+    background-color: inherit;
+    border-style: none;
+    border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     width: 5%;
+  }
+  h1{
+    text-align: center;
+    color: #c70039;
+    }
+  h2{
+    text-align: center;
+    color: #c70039;
+    }
+a{
+  color:  #c70039;
+  }
+h3{
+  text-align: left ;
+  text-align: center;
+}
